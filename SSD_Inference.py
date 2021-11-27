@@ -3,7 +3,7 @@ import mmcv
 #faster_rcnn
 # config_file = '../configs/faster_rcnn/faster_rcnn_r50_fpn_1x_coco.py'
 # ssd
-config_file = '../configs/faster_rcnn/ssdlite_mobilenetv2_scratch_600e_coco.py'
+config_file = '../configs/ssd/ssd300_coco.py'
 # download the checkpoint from model zoo and put it in `checkpoints/`
 # url: https://download.openmmlab.com/mmdetection/v2.0/faster_rcnn/faster_rcnn_r50_fpn_1x_coco/faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth
 # faster_rcnn
