@@ -17,7 +17,7 @@ img = 'demo.jpg'
 result = inference_detector(model, img)
 # show the results
 # show_result_pyplot(model, img, result)
-model.show_result(img,result,out_file='img_rst.jpg')
+model.show_result(img,result,out_file='SSD_Img.jpg')
 # video = mmcv.VideoReader('demo.mp4')
 # id = 0
 # for frame in video:
