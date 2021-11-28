@@ -13,7 +13,7 @@ img = 'demo.jpg'
 result = inference_detector(model, img)
 # show the results
 # show_result_pyplot(model, img, result)
-model.show_result(img,result,out_file='FRCNN_Img.jpg')
+model.show_result(img,result,out_file='MS_RCNN_Img.jpg')
 
 
 # video = mmcv.VideoReader('demo.mp4')
